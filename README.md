@@ -1,7 +1,9 @@
 스트릿 우먼 파이터 프로그램 소개! 
 
+출연진을 소개하는 페이지로 게시판을 이용해서 출연진을 응원하는 페이지입니다.
+
 구현 언어
-java, JSP, javaScript, XML, HTML, CSS, SQL
+java, JSP, javaScript, HTML, CSS, SQL
 
 사용 도구
 소프트웨어 개발 도구: Eclipse
