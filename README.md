@@ -11,7 +11,7 @@ java, JSP, javaScript, HTML, CSS, SQL
 WAS: Tomcat
 
 형상 관리 도구
-github, Discord
+Discord
 
 사용 주요 라이브러리
 화면단 라이브러리: Bootstrap
